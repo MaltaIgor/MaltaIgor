@@ -9,6 +9,7 @@
 - 🔭 Atualmente sou Data Analyst na Mundiale
 - 💥 Graduado em ADM - PUC Minas
 - 🌱 Especializando-me em Python, em SQL e em processos ETL. Estudando Power BI, NOSQL, HTML e JavaScript.
+- Repositórios Privados com diversos projetos de onde trabalhei.
 
   ##
 <div> 

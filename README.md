@@ -8,7 +8,7 @@
 ---
 - 🔭 Atualmente sou Data Analyst na Mundiale
 - 💥 Graduado em ADM - PUC Minas
-- 🌱 Especializando-me em Python, em SQL, em Power BI e em processos ETL. Iniciando estudos em NOSQL, em HTML e em JavaScript.
+- 🌱 Especializando-me em Python, em JavaScript, em SQL, em Power BI e em processos ETL. Iniciando estudos em NOSQL, em HTML, em CSS e em R.
 - 🔒 Repositórios Privados com diversos projetos de onde trabalhei (Favor entrar em contato).
 
   ##
@@ -29,6 +29,7 @@
   <img align="center" alt="MONGODB" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="github" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+   <img align="center" alt="R" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
  <div style="display: inline_block"><br>
 
    
